@@ -1,0 +1,171 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wly.maven"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:4:5-81
+11-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:7:5-65
+14-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:7:22-62
+15    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+15-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:8:5-79
+15-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:9:5-76
+16-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:9:22-73
+17    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+17-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:10:5-75
+17-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:10:22-72
+18    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+18-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:11:5-76
+18-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.GET_TASKS" />
+19-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:12:5-68
+19-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:12:22-65
+20    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+20-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:13:5-80
+20-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:13:22-77
+21    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+21-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:14:5-84
+21-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:14:22-81
+22    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:15:5-75
+22-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:15:22-72
+23    <uses-permission android:name="android.permission.READ_PHONE_SINTERNETWIFI_STATE" />
+23-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:16:5-89
+23-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:16:22-86
+24    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+24-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:17:5-81
+24-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:17:22-78
+25    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+25-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:18:5-71
+25-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:18:22-68
+26    <uses-permission android:name="android.permission.WAKE_LOCK" />
+26-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:19:5-68
+26-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:19:22-65
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:20:5-81
+27-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:20:22-78
+28    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+28-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:21:5-73
+28-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:21:22-70
+29    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+29-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:22:5-78
+29-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:22:22-75
+30    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+30-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:23:5-85
+30-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:23:22-82
+31    <uses-permission android:name="android.permission.READ_LOGS" />
+31-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:24:5-68
+31-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:24:22-65
+32    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+32-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:25:5-79
+32-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:25:22-76
+33    <uses-permission android:name="android.permission.REORDER_TASKS" />
+33-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:26:5-72
+33-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:26:22-69
+34    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+34-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:27:5-80
+34-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:27:22-77
+35    <!-- 9.0前台服务需要的权限 -->
+36    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+36-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:29:5-77
+36-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:29:22-74
+37    <!-- sdk 号码保护使用权限 -->
+38    <uses-permission android:name="android.permission.INTERNET" />
+38-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:31:5-67
+38-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:31:22-64
+39    <uses-permission android:name="android.permission.CALL_PHONE" />
+39-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:32:5-69
+39-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:32:22-66
+40    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+40-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:33:5-73
+40-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:33:22-70
+41    <uses-permission android:name="android.permission.READ_CONTACTS" />
+41-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:34:5-72
+41-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:34:22-69
+42    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+42-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:35:5-76
+42-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:35:22-73
+43    <uses-permission android:name="android.permission.BLUETOOTH" />
+43-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:37:5-68
+43-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:37:22-65
+44    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+44-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:38:5-74
+44-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:38:22-71
+45
+46    <uses-feature
+46-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:5-90
+47        android:name="android.hardware.location.gps"
+47-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:19-63
+48        android:required="false" />
+48-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:64-88
+49    <uses-feature
+49-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:5-86
+50        android:name="android.hardware.location"
+50-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:19-59
+51        android:required="false" />
+51-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:60-84
+52    <uses-feature
+52-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:5-94
+53        android:name="android.hardware.location.network"
+53-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:19-67
+54        android:required="false" />
+54-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:68-92
+55    <uses-feature
+55-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:5-87
+56        android:name="android.hardware.telephony"
+56-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:19-60
+57        android:required="false" />
+57-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:61-85
+58
+59    <application
+59-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:45:5-58:19
+60        android:allowBackup="true"
+60-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:46:9-35
+61        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+61-->[androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:22:18-86
+62        android:debuggable="true"
+63        android:extractNativeLibs="false"
+64        android:icon="@mipmap/ic_launcher"
+64-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:47:9-43
+65        android:label="@string/app_name"
+65-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:48:9-41
+66        android:roundIcon="@mipmap/ic_launcher_round"
+66-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:49:9-54
+67        android:supportsRtl="true"
+67-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:50:9-35
+68        android:theme="@style/AppTheme" >
+68-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:51:9-40
+69        <activity android:name="com.wly.maven.MainActivity" >
+69-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:52:9-57:20
+69-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:52:19-47
+70            <intent-filter>
+70-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:53:13-56:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:54:17-68
+71-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:54:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:55:17-76
+73-->/Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:55:27-74
+74            </intent-filter>
+75        </activity>
+76    </application>
+77
+78</manifest>

@@ -1,0 +1,301 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/9b376e4870dd3902db736877282ceb01/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2f9b45ae8a08860715732ce4cf296d24/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ea6bb1704024d7e9bb06ed9dc166265c/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb90bb59a89519db21e294548d7290fc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b35c89c6b09c8f92e8e54213f9ea5551/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/f8296585093e8754a6bdeedc21901e65/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/79455e12bc881ecf55e6d3e59ecb3e8d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/869800e59065c760dcd70fb158670624/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/542c7f35212d07e022f275ba72b373a2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b05eadeb99952c682003ebf5348d4055/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/26721a04955cd3dd566b83748e642fb7/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/13247486ac7e5c052da413d445560081/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b65519aacfe3036c80c3c2783520305e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/5d79f5eea34c8e45153e3f4634df9b8c/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/aea8b503495da9498c506396173c6a5c/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/919813e28fa443fa832d68fc1417e72d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9e19e2b37a91bbb5ab4ba9d7e5197f8/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/269dddaeeff51fbf6f63368755fa8880/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/1839cc0bd7656a450fb86f211ccb030d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/063652a6ad3a52d33a01887a1f0589e6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9aba70a96627a6cc3bc3456f94fea420/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/04bbb4b83aaca860da1dcb1dcdc76878/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2394082ffd3a91d7b746dd9391ceaefb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ae0cc03f51b8f9db72ae50234e3e85bf/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/87477962f4d6f35890bee30f8fb308e4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+	package
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:14:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_PHONE_SINTERNETWIFI_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:16:5-89
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:16:22-86
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:22:22-75
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:23:5-85
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:23:22-82
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.REORDER_TASKS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:26:5-72
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:26:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:27:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:29:5-77
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:29:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:31:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:32:22-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:33:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:34:22-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:35:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:38:5-74
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:38:22-71
+uses-feature#android.hardware.location.gps
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:5-90
+	android:required
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:64-88
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:40:19-63
+uses-feature#android.hardware.location
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:5-86
+	android:required
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:60-84
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:41:19-59
+uses-feature#android.hardware.location.network
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:5-94
+	android:required
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:68-92
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:42:19-67
+uses-feature#android.hardware.telephony
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:5-87
+	android:required
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:61-85
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:43:19-60
+application
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:45:5-58:19
+MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/aea8b503495da9498c506396173c6a5c/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/aea8b503495da9498c506396173c6a5c/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:50:9-35
+	android:label
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:48:9-41
+	android:roundIcon
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:49:9-54
+	android:icon
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:47:9-43
+	android:allowBackup
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:51:9-40
+activity#com.wly.maven.MainActivity
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:52:9-57:20
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:52:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:53:13-56:29
+action#android.intent.action.MAIN
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:54:17-68
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml:55:27-74
+uses-sdk
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/9b376e4870dd3902db736877282ceb01/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/9b376e4870dd3902db736877282ceb01/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2f9b45ae8a08860715732ce4cf296d24/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2f9b45ae8a08860715732ce4cf296d24/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ea6bb1704024d7e9bb06ed9dc166265c/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ea6bb1704024d7e9bb06ed9dc166265c/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb90bb59a89519db21e294548d7290fc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb90bb59a89519db21e294548d7290fc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b35c89c6b09c8f92e8e54213f9ea5551/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b35c89c6b09c8f92e8e54213f9ea5551/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/f8296585093e8754a6bdeedc21901e65/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/f8296585093e8754a6bdeedc21901e65/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/79455e12bc881ecf55e6d3e59ecb3e8d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/79455e12bc881ecf55e6d3e59ecb3e8d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/869800e59065c760dcd70fb158670624/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/869800e59065c760dcd70fb158670624/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/542c7f35212d07e022f275ba72b373a2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/542c7f35212d07e022f275ba72b373a2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b05eadeb99952c682003ebf5348d4055/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b05eadeb99952c682003ebf5348d4055/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/26721a04955cd3dd566b83748e642fb7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/26721a04955cd3dd566b83748e642fb7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/13247486ac7e5c052da413d445560081/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/13247486ac7e5c052da413d445560081/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b65519aacfe3036c80c3c2783520305e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b65519aacfe3036c80c3c2783520305e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/5d79f5eea34c8e45153e3f4634df9b8c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/5d79f5eea34c8e45153e3f4634df9b8c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/33d08933a8ae3fe5d3f3e67330227e15/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/aea8b503495da9498c506396173c6a5c/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/aea8b503495da9498c506396173c6a5c/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/919813e28fa443fa832d68fc1417e72d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/919813e28fa443fa832d68fc1417e72d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9e19e2b37a91bbb5ab4ba9d7e5197f8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9e19e2b37a91bbb5ab4ba9d7e5197f8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/269dddaeeff51fbf6f63368755fa8880/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/269dddaeeff51fbf6f63368755fa8880/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/1839cc0bd7656a450fb86f211ccb030d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/1839cc0bd7656a450fb86f211ccb030d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/063652a6ad3a52d33a01887a1f0589e6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/063652a6ad3a52d33a01887a1f0589e6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9aba70a96627a6cc3bc3456f94fea420/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9aba70a96627a6cc3bc3456f94fea420/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/04bbb4b83aaca860da1dcb1dcdc76878/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/04bbb4b83aaca860da1dcb1dcdc76878/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2394082ffd3a91d7b746dd9391ceaefb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/2394082ffd3a91d7b746dd9391ceaefb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ae0cc03f51b8f9db72ae50234e3e85bf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ae0cc03f51b8f9db72ae50234e3e85bf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/87477962f4d6f35890bee30f8fb308e4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/87477962f4d6f35890bee30f8fb308e4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/didi/develop/custom/MavenProject/app/src/main/AndroidManifest.xml
