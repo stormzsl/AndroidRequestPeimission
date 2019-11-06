@@ -150,29 +150,28 @@
 66-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:49:9-54
 67        android:supportsRtl="true"
 67-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:50:9-35
-68        android:testOnly="true"
-69        android:theme="@style/AppTheme" >
-69-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:51:9-40
-70        <activity android:name="com.wly.maven.MainActivity" >
-70-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:52:9-57:20
-70-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:52:19-47
-71            <intent-filter>
-71-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:53:13-56:29
-72                <action android:name="android.intent.action.MAIN" />
-72-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:54:17-68
-72-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:54:25-66
-73
-74                <category android:name="android.intent.category.LAUNCHER" />
-74-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:55:17-76
-74-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:55:27-74
-75            </intent-filter>
-76        </activity>
-77        <activity
-77-->[com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:12:9-14:50
-78            android:name="com.fasten.permission.PermissionActivity"
-78-->[com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:13:13-68
-79            android:theme="@style/translucent" />
-79-->[com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:14:13-47
-80    </application>
-81
-82</manifest>
+68        android:theme="@style/AppTheme" >
+68-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:51:9-40
+69        <activity android:name="com.wly.maven.MainActivity" >
+69-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:52:9-57:20
+69-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:52:19-47
+70            <intent-filter>
+70-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:53:13-56:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:54:17-68
+71-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:54:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:55:17-76
+73-->/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:55:27-74
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:12:9-14:50
+77            android:name="com.fasten.permission.PermissionActivity"
+77-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:13:13-68
+78            android:theme="@style/translucent" />
+78-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:14:13-47
+79    </application>
+80
+81</manifest>

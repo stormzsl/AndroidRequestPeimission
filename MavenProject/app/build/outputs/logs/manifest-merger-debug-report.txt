@@ -5,7 +5,7 @@ INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/Maven
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/7b8e95a1bdc44df088e98e7b321657ac/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/17e54e51d953768c36e6974d88e857bf/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ccdda57b22ae50f649bf8617615602b0/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/70ec4fa10ddfb7899ed8f70edc500c24/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -202,8 +202,8 @@ ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenPro
 		ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:43:19-60
 application
 ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:45:5-58:19
-MERGED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:11:5-15:19
-MERGED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:11:5-15:19
 MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/dbbb47798844a8f4044a75962241d89b/core-1.0.1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/dbbb47798844a8f4044a75962241d89b/core-1.0.1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c39cd2a5affbbb596481af662e643b5c/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
@@ -242,8 +242,8 @@ INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/Maven
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/7b8e95a1bdc44df088e98e7b321657ac/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/7b8e95a1bdc44df088e98e7b321657ac/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/17e54e51d953768c36e6974d88e857bf/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/17e54e51d953768c36e6974d88e857bf/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ccdda57b22ae50f649bf8617615602b0/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
@@ -305,8 +305,8 @@ INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/Maven
 		ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 activity#com.fasten.permission.PermissionActivity
-ADDED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:12:9-14:50
+ADDED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:12:9-14:50
 	android:theme
-		ADDED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:14:13-47
+		ADDED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:14:13-47
 	android:name
-		ADDED from [com.fasten:androidPermission:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a26871f285e8b61be844abdbfc0e28c3/androidPermission-1.1.0/AndroidManifest.xml:13:13-68
+		ADDED from [com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/b75e91709b74184a6b555b7ea69773b8/androidPermission-1.0.0/AndroidManifest.xml:13:13-68
