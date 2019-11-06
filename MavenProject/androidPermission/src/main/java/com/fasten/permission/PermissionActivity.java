@@ -4,13 +4,10 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.util.Log;
 
 import com.fasten.permission.core.PermissionListener;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.core.app.ActivityCompat;
 
 /**
  * 这种方式可以实现请求权限不再受activity限制
@@ -37,34 +34,29 @@ public class PermissionActivity extends Activity {
         bundle.putInt(PARAM_REQUEST_CODE, requestCode);
         intent.putExtras(bundle);
         context.startActivity(intent);
-        Log.e("stormzsl","22222");
         if (context instanceof Activity) {
             ((Activity) context).overridePendingTransition(0, 0);
         }
     }
 
     @Override
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.jp_permission_layout);
-        Log.e("stormzsl","33333");
 
         this.mPermissions = getIntent().getStringArrayExtra(PARAM_PERMISSION);
         this.mRequestCode = getIntent().getIntExtra(PARAM_REQUEST_CODE, -1);
         if (mPermissions == null || mRequestCode < 0 || mPermissionListener == null) {
             this.finish();
-            Log.e("stormzsl","44444");
             return;
         }
 
         //检查是否已授权
         if (PermissionUtils.hasPermission(this, mPermissions)) {
             mPermissionListener.grantedPermission();
-            Log.e("stormzsl","555555");
             finish();
             return;
         }
-        Log.e("stormzsl","666666");
         ActivityCompat.requestPermissions(this, this.mPermissions, this.mRequestCode);
 
     }
@@ -73,7 +65,7 @@ public class PermissionActivity extends Activity {
      *请求权限结果处理
      */
     @Override
-    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+    public void onRequestPermissionsResult(int requestCode,  String[] permissions, int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (PermissionUtils.verifyPermission(this, grantResults)) {
             //请求权限成功

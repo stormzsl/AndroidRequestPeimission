@@ -4,13 +4,13 @@
             "outputFile": "/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/didi/.gradle/caches/transforms-2/files-2.1/7b8e95a1bdc44df088e98e7b321657ac/appcompat-1.0.2/res/values-land/values-land.xml",
+                    "source": "/Users/didi/.gradle/caches/transforms-2/files-2.1/710bae191fc93f5b6c6d7c733e1291c4/appcompat-v7-27.1.1/res/values-land/values-land.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

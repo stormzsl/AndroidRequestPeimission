@@ -1,8 +1,7 @@
 package com.fasten.permission.core;
 
 import android.content.Context;
-import android.util.Log;
-
+import android.support.v4.app.Fragment;
 import com.fasten.permission.PermissionActivity;
 import com.fasten.permission.PermissionUtils;
 import com.fasten.permission.annotation.Permission;
@@ -14,8 +13,6 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
 
 import java.lang.ref.WeakReference;
-
-import androidx.fragment.app.Fragment;
 
 /**
  * 针对项目所使用的切入点
@@ -35,7 +32,6 @@ public class PermissionAspectJ {
      */
     @Around("requestPermission(permission)")
     public void aroundJoinPoint(final ProceedingJoinPoint joinPoint, Permission permission) {
-        Log.e("stormzsl","00000");
         Context context = null;
         final Object objectActivity = joinPoint.getThis();
         if (joinPoint.getThis() instanceof Context) {
@@ -48,7 +44,6 @@ public class PermissionAspectJ {
         if (context == null || permission == null) {
             return;
         }
-        Log.e("stormzsl","111111");
         PermissionActivity.requestPermission(context, permission.value(), permission.requestCode(), new ActivityPermissionListener(joinPoint));
     }
 

@@ -2,14 +2,11 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
-
-
-
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0.1"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -27,7 +24,8 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation 'androidx.appcompat:appcompat:1.0.2'
+//    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
@@ -63,8 +61,6 @@ def projectVersionName = android.defaultConfig.versionName //项目版本号
 bintray {
     user =bintrayUser
     key = bintrayApikey
-    println("------------------user:$user")
-    println("------------------key:$key")
     pkg {
         repo = repositoryName//自己创建的仓库名字
         name = projectName//上传到JCenter的名字,最终引用的名字 compile 'com.fasten:requestPermission:1.0.0
@@ -74,10 +70,10 @@ bintray {
         userOrg = bintrayOrganizationId //自己创建的organization名称，一定要全是小写字母，即使当时创建的名称含有大写，这里全部转换为小写，否则404
         publish = true // 是否是公开项目，公开别人可以引用
         version {
-            name = '1.0.0'
+            name = '1.0.1'
             desc = 'android基于aop动态权限申请'//描述，自己定义
             released  = new Date()
-            vcsTag = 'v1.0.0'
+            vcsTag = 'v1.0.1'
             attributes = ['gradle-plugin': 'com.use.less:com.use.less.gradle:gradle-useless-plugin']
         }
     }
