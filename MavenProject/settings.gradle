@@ -1,2 +1,3 @@
 rootProject.name='MavenProject'
 include ':app'
+include ':androidPermission'

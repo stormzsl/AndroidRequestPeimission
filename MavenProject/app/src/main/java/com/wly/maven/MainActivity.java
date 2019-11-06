@@ -5,9 +5,9 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.wly.permission.annotation.Permission;
-import com.wly.permission.annotation.PermissionCancel;
-import com.wly.permission.annotation.PermissionDeny;
+import com.fasten.permission.annotation.Permission;
+import com.fasten.permission.annotation.PermissionCancel;
+import com.fasten.permission.annotation.PermissionDeny;
 
 import androidx.annotation.Nullable;
 
