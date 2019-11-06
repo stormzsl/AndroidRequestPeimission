@@ -17,6 +17,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    lintOptions {
+        abortOnError false
+    }
+
 }
 
 dependencies {
@@ -25,6 +30,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-//    implementation 'com.wly.permission:request-permission:1.0'
+//    implementation project(path: ':androidPermission')
+
+    implementation 'com.fasten:androidPermission:1.1.0'
 
 }

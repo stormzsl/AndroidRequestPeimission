@@ -1,6 +1,7 @@
 package com.fasten.permission.core;
 
 import android.content.Context;
+import android.util.Log;
 
 import com.fasten.permission.PermissionActivity;
 import com.fasten.permission.PermissionUtils;
@@ -34,6 +35,7 @@ public class PermissionAspectJ {
      */
     @Around("requestPermission(permission)")
     public void aroundJoinPoint(final ProceedingJoinPoint joinPoint, Permission permission) {
+        Log.e("stormzsl","00000");
         Context context = null;
         final Object objectActivity = joinPoint.getThis();
         if (joinPoint.getThis() instanceof Context) {
@@ -46,6 +48,7 @@ public class PermissionAspectJ {
         if (context == null || permission == null) {
             return;
         }
+        Log.e("stormzsl","111111");
         PermissionActivity.requestPermission(context, permission.value(), permission.requestCode(), new ActivityPermissionListener(joinPoint));
     }
 

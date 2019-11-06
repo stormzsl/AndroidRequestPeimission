@@ -4,8 +4,9 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
+
 import com.fasten.permission.core.PermissionListener;
-import com.wly.permission.R;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -36,6 +37,7 @@ public class PermissionActivity extends Activity {
         bundle.putInt(PARAM_REQUEST_CODE, requestCode);
         intent.putExtras(bundle);
         context.startActivity(intent);
+        Log.e("stormzsl","22222");
         if (context instanceof Activity) {
             ((Activity) context).overridePendingTransition(0, 0);
         }
@@ -45,19 +47,24 @@ public class PermissionActivity extends Activity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.jp_permission_layout);
+        Log.e("stormzsl","33333");
+
         this.mPermissions = getIntent().getStringArrayExtra(PARAM_PERMISSION);
         this.mRequestCode = getIntent().getIntExtra(PARAM_REQUEST_CODE, -1);
         if (mPermissions == null || mRequestCode < 0 || mPermissionListener == null) {
             this.finish();
+            Log.e("stormzsl","44444");
             return;
         }
 
         //检查是否已授权
         if (PermissionUtils.hasPermission(this, mPermissions)) {
             mPermissionListener.grantedPermission();
+            Log.e("stormzsl","555555");
             finish();
             return;
         }
+        Log.e("stormzsl","666666");
         ActivityCompat.requestPermissions(this, this.mPermissions, this.mRequestCode);
 
     }

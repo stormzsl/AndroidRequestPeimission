@@ -1,0 +1,7 @@
+#Wed Nov 06 16:57:02 CST 2019
+base.0=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
