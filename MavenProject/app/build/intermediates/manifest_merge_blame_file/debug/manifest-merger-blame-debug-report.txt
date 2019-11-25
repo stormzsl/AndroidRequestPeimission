@@ -164,11 +164,11 @@
 72            </intent-filter>
 73        </activity>
 74        <activity
-74-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/435b0f0edb9dfe465fedf2bb60be017a/androidPermission-1.0.0/AndroidManifest.xml:12:9-14:50
+74-->[com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:12:9-14:50
 75            android:name="com.fasten.permission.PermissionActivity"
-75-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/435b0f0edb9dfe465fedf2bb60be017a/androidPermission-1.0.0/AndroidManifest.xml:13:13-68
+75-->[com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:13:13-68
 76            android:theme="@style/translucent" />
-76-->[com.fasten:androidPermission:1.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/435b0f0edb9dfe465fedf2bb60be017a/androidPermission-1.0.0/AndroidManifest.xml:14:13-47
+76-->[com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:14:13-47
 77    </application>
 78
 79</manifest>

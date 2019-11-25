@@ -1,13 +1,7 @@
-#Wed Nov 06 17:51:20 CST 2019
-path.3=classes_1.dex
-path.2=classes_0.dex
-path.1=classes.dex
-path.0=classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-base.3=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
-base.2=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
-base.1=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+#Mon Nov 25 17:13:04 CST 2019
 base.0=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

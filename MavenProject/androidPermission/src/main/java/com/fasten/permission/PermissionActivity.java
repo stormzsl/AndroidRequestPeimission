@@ -5,8 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
-import android.util.Log;
-
 import com.fasten.permission.core.PermissionListener;
 
 /**
@@ -20,13 +18,13 @@ public class PermissionActivity extends Activity {
     private static final String PARAM_REQUEST_CODE = "param_request_code";
     private String[] mPermissions;
     private int mRequestCode;
-    private  static PermissionListener mPermissionListener;
+    private static PermissionListener mPermissionListener;
 
     /**
      * 请求权限
      */
     public static void requestPermission(Context context, String[] permissions, int requestCode, PermissionListener permissionListener) {
-        mPermissionListener=permissionListener;
+        mPermissionListener = permissionListener;
         Intent intent = new Intent(context, PermissionActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
         Bundle bundle = new Bundle();
@@ -65,8 +63,11 @@ public class PermissionActivity extends Activity {
      *请求权限结果处理
      */
     @Override
-    public void onRequestPermissionsResult(int requestCode,  String[] permissions, int[] grantResults) {
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (mPermissionListener == null) {
+            return;
+        }
         if (PermissionUtils.verifyPermission(this, grantResults)) {
             //请求权限成功
             mPermissionListener.grantedPermission();
@@ -87,7 +88,7 @@ public class PermissionActivity extends Activity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        mPermissionListener=null;
+        mPermissionListener = null;
     }
 
     @Override
