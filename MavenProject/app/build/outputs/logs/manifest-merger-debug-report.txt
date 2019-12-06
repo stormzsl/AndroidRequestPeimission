@@ -4,18 +4,33 @@ ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenPro
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/710bae191fc93f5b6c6d7c733e1291c4/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0adec129544700e3ba0cd74498751ccc/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/2bd9a95c75c80f33acfad44f1352d90f/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/133ae85885deff6eb89d06980ce1ff2e/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/add08217a82feaa8ae1484a5857eee02/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d6c9993354c1ff10ce47ba4a9ac17571/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d66097c8ce7f35c0f4d4a866db025ea1/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3f217f83a4ab4e987a0d4eadd644ccd2/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ee05362422c65a77550c52f048ac45ab/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ace6eaa233fa955774749dd765bbf375/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e9295fc5c6049fdeefb8dfc4f3fa5b1/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/30ccfff12f6745c1e0a823cb668eadc8/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/22fde6fbc19242fcf4eb9fb783f26eff/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3853367600e868c8434f1577bcf888f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/86399df7a3cf6f250a06f81898cf1a14/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/d8380625fdcb3b071530c449a6a940e1/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/08cda7e4224f3ac988aeb7116c4e116a/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb2bedd373663835a763ccc10bea41aa/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9dc0184cd27ef2f5848224d0ce0cdd20/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/8be929f573ec2649f0213356ddc5c765/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7d2a4ebc804d68e0e84f2856f389b043/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9eb71aede7131a7768cd141df3efe856/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c2739f13b014a0d45b39a5578817c614/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fe9b56f2c012b4cc4b04feb01145f32c/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/99efdb0638cb1dc27de1512617a9ae39/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7c283efa8b0435b3d9a6ead3fcfc596a/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bcc239a5179883e04eac41521e3e7072/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/8d8f3dd0c64bf6b20442276eda2e8e69/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3212c70e0cf4a9d14f98baeb0e54ad83/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bbd66b05cf6c7c26e0f511bc6bf05bd4/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a4b5015e2389de93d08a3afdc9b87b76/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/7229fbd05534b99f138cb779a01e2532/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/9af2378454b193aacc05e97ca5fee682/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e065c836c0b3f2957a646ced64b6e02/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/5a0cd1c049ed3554fe972ea93b9ea576/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ad82c49869eff394f9c3f6abaccaa765/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:1:1-60:12
@@ -187,8 +202,14 @@ ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenPro
 		ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:43:19-60
 application
 ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:45:5-58:19
-MERGED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:11:5-15:19
-MERGED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7c283efa8b0435b3d9a6ead3fcfc596a/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7c283efa8b0435b3d9a6ead3fcfc596a/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml:50:9-35
 	android:label
@@ -219,30 +240,60 @@ uses-sdk
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/710bae191fc93f5b6c6d7c733e1291c4/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/710bae191fc93f5b6c6d7c733e1291c4/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0adec129544700e3ba0cd74498751ccc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0adec129544700e3ba0cd74498751ccc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/2bd9a95c75c80f33acfad44f1352d90f/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/2bd9a95c75c80f33acfad44f1352d90f/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/133ae85885deff6eb89d06980ce1ff2e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/133ae85885deff6eb89d06980ce1ff2e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/add08217a82feaa8ae1484a5857eee02/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/add08217a82feaa8ae1484a5857eee02/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d6c9993354c1ff10ce47ba4a9ac17571/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d6c9993354c1ff10ce47ba4a9ac17571/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d66097c8ce7f35c0f4d4a866db025ea1/support-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/d66097c8ce7f35c0f4d4a866db025ea1/support-compat-27.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3f217f83a4ab4e987a0d4eadd644ccd2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3f217f83a4ab4e987a0d4eadd644ccd2/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ee05362422c65a77550c52f048ac45ab/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ee05362422c65a77550c52f048ac45ab/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ace6eaa233fa955774749dd765bbf375/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ace6eaa233fa955774749dd765bbf375/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e9295fc5c6049fdeefb8dfc4f3fa5b1/runtime-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e9295fc5c6049fdeefb8dfc4f3fa5b1/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/30ccfff12f6745c1e0a823cb668eadc8/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/30ccfff12f6745c1e0a823cb668eadc8/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/22fde6fbc19242fcf4eb9fb783f26eff/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/22fde6fbc19242fcf4eb9fb783f26eff/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3853367600e868c8434f1577bcf888f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3853367600e868c8434f1577bcf888f7/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/86399df7a3cf6f250a06f81898cf1a14/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/86399df7a3cf6f250a06f81898cf1a14/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/d8380625fdcb3b071530c449a6a940e1/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/d8380625fdcb3b071530c449a6a940e1/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/08cda7e4224f3ac988aeb7116c4e116a/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/08cda7e4224f3ac988aeb7116c4e116a/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb2bedd373663835a763ccc10bea41aa/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fb2bedd373663835a763ccc10bea41aa/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9dc0184cd27ef2f5848224d0ce0cdd20/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9dc0184cd27ef2f5848224d0ce0cdd20/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/8be929f573ec2649f0213356ddc5c765/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/8be929f573ec2649f0213356ddc5c765/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7d2a4ebc804d68e0e84f2856f389b043/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7d2a4ebc804d68e0e84f2856f389b043/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9eb71aede7131a7768cd141df3efe856/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/9eb71aede7131a7768cd141df3efe856/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c2739f13b014a0d45b39a5578817c614/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c2739f13b014a0d45b39a5578817c614/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fe9b56f2c012b4cc4b04feb01145f32c/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/fe9b56f2c012b4cc4b04feb01145f32c/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/99efdb0638cb1dc27de1512617a9ae39/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/99efdb0638cb1dc27de1512617a9ae39/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/c9365fbfda88729546d25cc071d98a2b/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7c283efa8b0435b3d9a6ead3fcfc596a/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/7c283efa8b0435b3d9a6ead3fcfc596a/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bcc239a5179883e04eac41521e3e7072/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bcc239a5179883e04eac41521e3e7072/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/8d8f3dd0c64bf6b20442276eda2e8e69/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/8d8f3dd0c64bf6b20442276eda2e8e69/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3212c70e0cf4a9d14f98baeb0e54ad83/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/3212c70e0cf4a9d14f98baeb0e54ad83/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bbd66b05cf6c7c26e0f511bc6bf05bd4/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/bbd66b05cf6c7c26e0f511bc6bf05bd4/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a4b5015e2389de93d08a3afdc9b87b76/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/a4b5015e2389de93d08a3afdc9b87b76/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/7229fbd05534b99f138cb779a01e2532/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/7229fbd05534b99f138cb779a01e2532/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/9af2378454b193aacc05e97ca5fee682/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/9af2378454b193aacc05e97ca5fee682/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e065c836c0b3f2957a646ced64b6e02/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/0e065c836c0b3f2957a646ced64b6e02/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/5a0cd1c049ed3554fe972ea93b9ea576/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/didi/.gradle/caches/transforms-2/files-2.1/5a0cd1c049ed3554fe972ea93b9ea576/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ad82c49869eff394f9c3f6abaccaa765/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/didi/.gradle/caches/transforms-2/files-2.1/ad82c49869eff394f9c3f6abaccaa765/interpolator-28.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -254,8 +305,8 @@ INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/Maven
 		ADDED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/didi/develop/practiceProject/AndroidRequestPeimission/MavenProject/app/src/main/AndroidManifest.xml
 activity#com.fasten.permission.PermissionActivity
-ADDED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:12:9-14:50
+ADDED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:12:9-14:50
 	android:theme
-		ADDED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:14:13-47
+		ADDED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:14:13-47
 	android:name
-		ADDED from [com.fasten:androidPermission:1.0.2] /Users/didi/.gradle/caches/transforms-2/files-2.1/2b01dc2cbacf83e153842f982e65de43/androidPermission-1.0.2/AndroidManifest.xml:13:13-68
+		ADDED from [com.fasten:androidPermission:1.0.3] /Users/didi/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/AndroidManifest.xml:13:13-68
