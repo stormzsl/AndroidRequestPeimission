@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasten:androidPermission:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65c866cec552fd2a83abbb0118b9d59d/androidPermission-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasten/androidPermission/1.0.3/c347fe3bef1fecb5ae51f4fd317d533b80d48361/androidPermission-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasten/androidPermission/1.0.3/8fbc9f57ff821407c6d5c5ce2a995932f525b1df/androidPermission-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
